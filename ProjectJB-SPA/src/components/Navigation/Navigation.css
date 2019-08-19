@@ -1,0 +1,13 @@
+ div a.active, ul li.active{
+    font-weight: bold!important;
+    font-style: normal!important;
+    color: black;
+}
+.navLink {
+    padding: 25px;
+}
+/*
+.navLink {
+    outline-style: solid;
+    outline-color: black;
+} */
