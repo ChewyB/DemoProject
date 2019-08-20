@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jebel\\Desktop\\ProjectJB.API\\ProjectJB.API\\PlayGround.API.csproj": {}
+    "C:\\Users\\jb106327\\Desktop\\ProjectJB\\DemoProject\\ProjectJB.API\\PlayGround.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jebel\\Desktop\\ProjectJB.API\\ProjectJB.API\\PlayGround.API.csproj": {
+    "C:\\Users\\jb106327\\Desktop\\ProjectJB\\DemoProject\\ProjectJB.API\\PlayGround.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jebel\\Desktop\\ProjectJB.API\\ProjectJB.API\\PlayGround.API.csproj",
+        "projectUniqueName": "C:\\Users\\jb106327\\Desktop\\ProjectJB\\DemoProject\\ProjectJB.API\\PlayGround.API.csproj",
         "projectName": "PlayGround.API",
-        "projectPath": "C:\\Users\\jebel\\Desktop\\ProjectJB.API\\ProjectJB.API\\PlayGround.API.csproj",
-        "packagesPath": "C:\\Users\\jebel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jebel\\Desktop\\ProjectJB.API\\ProjectJB.API\\obj\\",
+        "projectPath": "C:\\Users\\jb106327\\Desktop\\ProjectJB\\DemoProject\\ProjectJB.API\\PlayGround.API.csproj",
+        "packagesPath": "C:\\Users\\jb106327\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jb106327\\Desktop\\ProjectJB\\DemoProject\\ProjectJB.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jebel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jb106327\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +25,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repo.mitchell.com/api/nuget/dot-net-internal-repos": {},
+          "http://repo.mitchell.com/api/nuget/net-dev": {},
+          "http://repo.mitchell.com/api/nuget/net-release": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

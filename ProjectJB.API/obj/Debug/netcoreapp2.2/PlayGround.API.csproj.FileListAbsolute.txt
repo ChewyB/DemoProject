@@ -26,3 +26,17 @@ C:\Users\jebel\Desktop\ProjectJB.API\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayG
 C:\Users\jebel\Desktop\ProjectJB.API\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.RazorTargetAssemblyInfo.cache
 C:\Users\jebel\Desktop\ProjectJB.API\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.dll
 C:\Users\jebel\Desktop\ProjectJB.API\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.pdb
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\bin\Debug\netcoreapp2.2\PlayGround.API.deps.json
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\bin\Debug\netcoreapp2.2\PlayGround.API.runtimeconfig.json
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\bin\Debug\netcoreapp2.2\PlayGround.API.runtimeconfig.dev.json
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\bin\Debug\netcoreapp2.2\PlayGround.API.dll
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\bin\Debug\netcoreapp2.2\PlayGround.API.pdb
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.csprojAssemblyReference.cache
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.csproj.CoreCompileInputs.cache
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.RazorAssemblyInfo.cache
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.RazorAssemblyInfo.cs
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.AssemblyInfoInputs.cache
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.AssemblyInfo.cs
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.RazorTargetAssemblyInfo.cache
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.dll
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.2\PlayGround.API.pdb

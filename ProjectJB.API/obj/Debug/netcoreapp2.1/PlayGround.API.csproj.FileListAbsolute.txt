@@ -1,0 +1,6 @@
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.1\PlayGround.API.csprojAssemblyReference.cache
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.1\PlayGround.API.csproj.CoreCompileInputs.cache
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.1\PlayGround.API.RazorAssemblyInfo.cache
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.1\PlayGround.API.RazorAssemblyInfo.cs
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.1\PlayGround.API.AssemblyInfoInputs.cache
+C:\Users\jb106327\Desktop\ProjectJB\DemoProject\ProjectJB.API\obj\Debug\netcoreapp2.1\PlayGround.API.AssemblyInfo.cs
